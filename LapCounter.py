@@ -6,7 +6,7 @@ stop = False
 addedlap = False
 tags = {}
 
-print("read instructions in jogathon lap counter google drive folder before use ")
+print('When you have finished using the counter type "stop" and a test file will be made with the results')
 sleep(1)
 
 while stop == False:
